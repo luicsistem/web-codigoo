@@ -19,7 +19,18 @@
     text-transform: uppercase;
     text-decoration: none;
     padding: 4px 10px;
-
+}
+.main {
+    height: 420px;
+}
+.main img {
+    display: block;
+    margin: auto;
+}
+.footer {
+    background: #0059ff;
+    text-align: center;
+    padding: 2px  0;
 
 
 }
