@@ -21,16 +21,33 @@
     padding: 4px 10px;
 }
 .main {
-    height: 420px;
+    height: 250px;
 }
 .main img {
     display: block;
     margin: auto;
 }
+.form {
+    padding: 10px 10px;
+    border:  1px solid #0099ff ;
+}
+.form input {
+    width: 300px;
+
+
+}
+.group {
+    padding: 5px 0;
+}
+
 .footer {
     background: #0059ff;
     text-align: center;
     padding: 2px  0;
+}
 
-
+.btn {
+    background: crimson;
+    color: #fff;
+    padding: 2px 20px;
 }
