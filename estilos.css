@@ -1,0 +1,25 @@
+.header {
+    width: 100vw;
+    border: 1px solid #000 ;
+    background-color: #0059ff;
+    color: #fff;
+    padding: 2px 0;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.nav {
+    background: #0099ff;
+    padding: 5px 0;
+    width: 100vw;
+}
+.nav a {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 4px 10px;
+
+
+
+}
